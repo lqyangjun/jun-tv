@@ -1,0 +1,2 @@
+com/shenma/tvlauncher/test/BuildConfig.java
+ com.shenma.tvlauncher.test.BuildConfig

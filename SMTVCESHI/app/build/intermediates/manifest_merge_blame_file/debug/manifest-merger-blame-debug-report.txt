@@ -1,0 +1,392 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="cn.plbtv.app"
+4    platformBuildVersionCode="23"
+5    platformBuildVersionName="6.0-2704002"
+6    android:versionCode="117"
+7    android:versionName="9.0" >
+8
+9    <uses-sdk
+10        android:minSdkVersion="18"
+10-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml
+11        android:targetSdkVersion="23" />
+11-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml
+12
+13    <supports-screens
+13-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:9:5-14:39
+14        android:anyDensity="true"
+14-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:10:9-34
+15        android:largeScreens="true"
+15-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:11:9-36
+16        android:normalScreens="true"
+16-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:12:9-37
+17        android:resizeable="true"
+17-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:13:9-34
+18        android:smallScreens="true" />
+18-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:14:9-36
+19    <supports-screens
+19-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:9:5-14:39
+20        android:anyDensity="true"
+20-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:10:9-34
+21        android:largeScreens="true"
+21-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:11:9-36
+22        android:normalScreens="true"
+22-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:12:9-37
+23        android:resizeable="true"
+23-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:13:9-34
+24        android:smallScreens="true" />
+24-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:14:9-36
+25
+26    <uses-permission android:name="android.permission.INTERNET" />
+26-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:22:5-67
+26-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:22:22-64
+27    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+27-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:23:5-76
+27-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:23:22-73
+28    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+28-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:24:5-76
+28-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:24:22-73
+29    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+29-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:25:5-79
+29-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:25:22-76
+30    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+30-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:26:5-79
+30-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:26:22-76
+31    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+31-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:27:5-81
+31-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:27:22-78
+32    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+32-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:28:5-75
+32-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:28:22-72
+33    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+33-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:29:5-73
+33-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:29:22-70
+34    <uses-permission android:name="android.permission.WAKE_LOCK" />
+34-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:30:5-68
+34-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:30:22-65
+35    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+35-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:31:5-84
+35-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:31:22-81
+36
+37    <uses-feature
+37-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:33:5-35:35
+38        android:name="android.hardware.type.television"
+38-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:34:9-56
+39        android:required="true" />
+39-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:35:9-32
+40
+41    <application
+41-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:36:5-187:19
+42        android:name="com.shenma.tvlauncher.application.MyApplication"
+42-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:37:9-71
+43        android:allowBackup="true"
+43-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:38:9-35
+44        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+44-->[com.android.support:support-compat:28.0.0] G:\AndroidJDK\caches\transforms-3\7172112ab543536ad4df127264db9ed7\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+45        android:debuggable="true"
+46        android:hardwareAccelerated="true"
+46-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:39:9-43
+47        android:icon="@drawable/icon"
+47-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:40:9-38
+48        android:label="@string/app_name"
+48-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:41:9-41
+49        android:largeHeap="true"
+49-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:42:9-33
+50        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+50-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:43:9-67
+51        <activity
+51-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:44:9-55:20
+52            android:name="com.shenma.tvlauncher.SplashActivity"
+52-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:45:13-64
+53            android:configChanges="keyboardHidden|orientation"
+53-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:46:13-63
+54            android:label="@string/app_name"
+54-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:47:13-45
+55            android:screenOrientation="landscape" >
+55-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:48:13-50
+56            <intent-filter>
+56-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:49:13-54:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:50:17-69
+57-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:50:25-66
+58
+59                <category android:name="android.intent.category.DEFAULT" />
+59-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:51:17-76
+59-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:51:27-73
+60                <category android:name="android.intent.category.MONKEY" />
+60-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:52:17-75
+60-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:52:27-72
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:53:17-77
+61-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:53:27-74
+62            </intent-filter>
+63        </activity>
+64
+65        <!-- 刘海屏适配 -->
+66        <meta-data
+66-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:58:9-76
+67            android:name="android.max_aspect"
+67-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:58:20-53
+68            android:value="2.4" />
+68-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:58:54-73
+69
+70        <activity
+70-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:60:9-64:53
+71            android:name="com.shenma.tvlauncher.HomeActivity"
+71-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:61:13-62
+72            android:configChanges="keyboardHidden|orientation|screenSize"
+72-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:62:13-74
+73            android:launchMode="singleTask"
+73-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:63:13-44
+74            android:screenOrientation="landscape" />
+74-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:64:13-50
+75        <activity
+75-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:65:9-68:53
+76            android:name="com.shenma.tvlauncher.tvback.TVBackActivity"
+76-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:66:13-71
+77            android:configChanges="keyboardHidden|orientation"
+77-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:67:13-63
+78            android:screenOrientation="landscape" />
+78-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:68:13-50
+79        <activity
+79-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:69:9-78:20
+80            android:name="com.shenma.tvlauncher.tvlive.TVLivePlayer"
+80-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:70:13-69
+81            android:configChanges="keyboardHidden|orientation"
+81-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:71:13-63
+82            android:process="com.shenma.tvlive"
+82-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:72:13-48
+83            android:screenOrientation="landscape" >
+83-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:73:13-50
+84            <intent-filter>
+84-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:74:13-77:29
+85                <action android:name="android.intent.action.START.TVLIVE" />
+85-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:75:17-77
+85-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:75:25-74
+86
+87                <category android:name="android.intent.category.DEFAULT" />
+87-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:51:17-76
+87-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:51:27-73
+88            </intent-filter>
+89        </activity>
+90        <activity
+90-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:79:9-82:53
+91            android:name="com.shenma.tvlauncher.BaseActivity"
+91-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:80:13-62
+92            android:configChanges="keyboardHidden|orientation"
+92-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:81:13-63
+93            android:screenOrientation="landscape" />
+93-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:82:13-50
+94        <activity
+94-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:83:9-86:53
+95            android:name="com.shenma.tvlauncher.AboutActivity"
+95-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:84:13-63
+96            android:configChanges="keyboardHidden|orientation"
+96-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:85:13-63
+97            android:screenOrientation="landscape" />
+97-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:86:13-50
+98        <activity
+98-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:87:9-90:53
+99            android:name="com.shenma.tvlauncher.SettingPlayActivity"
+99-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:88:13-69
+100            android:configChanges="keyboardHidden|orientation"
+100-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:89:13-63
+101            android:screenOrientation="landscape" />
+101-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:90:13-50
+102        <activity
+102-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:91:9-94:53
+103            android:name="com.shenma.tvlauncher.vod.VodTypeActivity"
+103-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:92:13-69
+104            android:configChanges="keyboardHidden|orientation"
+104-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:93:13-63
+105            android:screenOrientation="landscape" />
+105-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:94:13-50
+106        <activity
+106-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:95:9-98:53
+107            android:name="com.shenma.tvlauncher.vod.VodDetailsActivity"
+107-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:96:13-72
+108            android:configChanges="keyboardHidden|orientation"
+108-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:97:13-63
+109            android:screenOrientation="landscape" />
+109-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:98:13-50
+110        <activity
+110-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:99:9-102:53
+111            android:name="com.shenma.tvlauncher.vod.VideoPlayerActivity"
+111-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:100:13-73
+112            android:configChanges="keyboardHidden|orientation"
+112-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:101:13-63
+113            android:screenOrientation="landscape" />
+113-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:102:13-50
+114        <activity
+114-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:103:9-106:53
+115            android:name="com.shenma.tvlauncher.vod.LivePlayerActivity"
+115-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:104:13-72
+116            android:configChanges="keyboardHidden|orientation"
+116-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:105:13-63
+117            android:screenOrientation="landscape" />
+117-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:106:13-50
+118        <activity
+118-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:107:9-110:53
+119            android:name="com.shenma.tvlauncher.vod.SearchActivity"
+119-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:108:13-68
+120            android:configChanges="keyboardHidden|orientation"
+120-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:109:13-63
+121            android:screenOrientation="landscape" />
+121-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:110:13-50
+122        <activity
+122-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:111:9-114:53
+123            android:name="com.shenma.tvlauncher.ClearActivity"
+123-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:112:13-63
+124            android:configChanges="keyboardHidden|orientation"
+124-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:113:13-63
+125            android:screenOrientation="landscape" />
+125-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:114:13-50
+126        <activity
+126-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:115:9-118:53
+127            android:name="com.shenma.tvlauncher.OtherActivity"
+127-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:116:13-63
+128            android:configChanges="keyboardHidden|orientation"
+128-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:117:13-63
+129            android:screenOrientation="landscape" />
+129-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:118:13-50
+130        <activity
+130-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:119:9-122:53
+131            android:name="com.shenma.tvlauncher.TvStationActivity"
+131-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:120:13-67
+132            android:configChanges="keyboardHidden|orientation"
+132-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:121:13-63
+133            android:screenOrientation="landscape" />
+133-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:122:13-50
+134        <activity
+134-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:123:9-126:53
+135            android:name="com.shenma.tvlauncher.UserActivity"
+135-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:124:13-62
+136            android:configChanges="keyboardHidden|orientation"
+136-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:125:13-63
+137            android:screenOrientation="landscape" />
+137-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:126:13-50
+138        <activity
+138-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:127:9-130:53
+139            android:name="com.shenma.tvlauncher.SettingRemoteActivity"
+139-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:128:13-71
+140            android:configChanges="keyboardHidden|orientation"
+140-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:129:13-63
+141            android:screenOrientation="landscape" />
+141-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:130:13-50
+142        <activity
+142-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:131:9-135:53
+143            android:name="com.shenma.tvlauncher.AppManageActivity"
+143-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:132:13-67
+144            android:configChanges="keyboardHidden|orientation"
+144-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:133:13-63
+145            android:launchMode="singleInstance"
+145-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:134:13-48
+146            android:screenOrientation="landscape" />
+146-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:135:13-50
+147        <activity
+147-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:136:9-139:53
+148            android:name="com.shenma.tvlauncher.SettingActActvity"
+148-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:137:13-67
+149            android:configChanges="keyboardHidden|orientation"
+149-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:138:13-63
+150            android:screenOrientation="landscape" />
+150-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:139:13-50
+151        <activity
+151-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:140:9-143:53
+152            android:name="com.shenma.tvlauncher.SettingWallpaperActivity"
+152-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:141:13-74
+153            android:configChanges="keyboardHidden|orientation"
+153-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:142:13-63
+154            android:screenOrientation="landscape" />
+154-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:143:13-50
+155        <activity
+155-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:144:9-147:53
+156            android:name="com.shenma.tvlauncher.TopicActivity"
+156-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:145:13-63
+157            android:configChanges="keyboardHidden|orientation"
+157-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:146:13-63
+158            android:screenOrientation="landscape" />
+158-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:147:13-50
+159        <activity
+159-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:148:9-151:53
+160            android:name="com.shenma.tvlauncher.EmpowerActivity"
+160-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:149:13-65
+161            android:configChanges="keyboardHidden|orientation"
+161-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:150:13-63
+162            android:screenOrientation="landscape" />
+162-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:151:13-50
+163        <activity
+163-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:152:9-155:53
+164            android:name="com.shenma.tvlauncher.HistoryActivity"
+164-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:153:13-65
+165            android:configChanges="keyboardHidden|orientation"
+165-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:154:13-63
+166            android:screenOrientation="landscape" />
+166-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:155:13-50
+167        <activity
+167-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:156:9-159:53
+168            android:name="com.shenma.tvlauncher.SettingInvActivity"
+168-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:157:13-68
+169            android:configChanges="keyboardHidden|orientation"
+169-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:158:13-63
+170            android:screenOrientation="landscape" />
+170-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:159:13-50
+171
+172        <service
+172-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:160:9-163:67
+173            android:name="com.shenma.tvlauncher.view.MyServices"
+173-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:163:13-65
+174            android:enabled="true"
+174-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:161:13-35
+175            android:exported="false" />
+175-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:162:13-37
+176        <service
+176-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:164:9-167:66
+177            android:name="com.shenma.tvlauncher.view.MyService"
+177-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:167:13-64
+178            android:enabled="true"
+178-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:165:13-35
+179            android:exported="false" />
+179-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:166:13-37
+180        <service
+180-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:168:9-171:69
+181            android:name="com.shenma.tvlauncher.view.JSONService"
+181-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:171:13-66
+182            android:enabled="true"
+182-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:169:13-35
+183            android:exported="false" />
+183-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:170:13-37
+184
+185        <meta-data
+185-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:172:9-174:32
+186            android:name="UMENG_APPKEY"
+186-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:173:13-40
+187            android:value="" />
+187-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:174:13-29
+188        <meta-data
+188-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:175:9-177:36
+189            android:name="UMENG_CHANNEL"
+189-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:176:13-41
+190            android:value="smtv" />
+190-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:177:13-33
+191        <meta-data
+191-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:178:9-180:50
+192            android:name="UMENG_KEY"
+192-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:179:13-37
+193            android:value="1621e18154b078e16c" />
+193-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:180:13-47
+194        <meta-data
+194-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:181:9-183:36
+195            android:name="TALKINGDATA_CHANNEL"
+195-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:182:13-47
+196            android:value="king" />
+196-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:183:13-33
+197        <meta-data
+197-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:184:9-186:54
+198            android:name="TALKINGDATA_VALUE"
+198-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:185:13-45
+199            android:value="5465e78553b07de76f2b59" />
+199-->G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:186:13-51
+200    </application>
+201
+202</manifest>

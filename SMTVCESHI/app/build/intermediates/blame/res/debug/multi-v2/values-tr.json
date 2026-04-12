@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\KUMIAOTV1\\SMTVCESHI\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr\\values-tr.xml",
+            "map": [
+                {
+                    "source": "D:\\development\\Android\\sdk\\ndk\\caches\\transforms-2\\files-2.1\\397ca57a00702b2e15ded72fd32276c8\\res\\values-tr\\values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,130,209,281,349,411,486,566,651,731,800,870,935,1012,1071,1136,1197,1277,1353,1406,1464,1512,1573,1635,1692,1756,1821,1887,1939,1999,2073,2147",
+                        "endColumns": "74,78,71,67,61,74,79,84,79,68,69,64,76,58,64,60,79,75,52,57,47,60,61,56,63,64,65,51,59,73,73,56",
+                        "endOffsets": "125,204,276,344,406,481,561,646,726,795,865,930,1007,1066,1131,1192,1272,1348,1401,1459,1507,1568,1630,1687,1751,1816,1882,1934,1994,2068,2142,2199"
+                    }
+                },
+                {
+                    "source": "D:\\development\\Android\\sdk\\ndk\\caches\\transforms-2\\files-2.1\\373aa0fead3af7bb1f1c652ada2de6b6\\res\\values-tr\\values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "34",
+                        "startColumns": "4",
+                        "startOffsets": "2204",
+                        "endColumns": "100",
+                        "endOffsets": "2300"
+                    }
+                }
+            ]
+        }
+    ]
+}

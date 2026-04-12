@@ -1,0 +1,126 @@
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:41
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:93
+-keep class com.shenma.tvlauncher.AboutActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:141
+-keep class com.shenma.tvlauncher.AppManageActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:89
+-keep class com.shenma.tvlauncher.BaseActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:121
+-keep class com.shenma.tvlauncher.ClearActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:158
+-keep class com.shenma.tvlauncher.EmpowerActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:162
+-keep class com.shenma.tvlauncher.HistoryActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:69
+-keep class com.shenma.tvlauncher.HomeActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:125
+-keep class com.shenma.tvlauncher.OtherActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:146
+-keep class com.shenma.tvlauncher.SettingActActvity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:166
+-keep class com.shenma.tvlauncher.SettingInvActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:97
+-keep class com.shenma.tvlauncher.SettingPlayActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:137
+-keep class com.shenma.tvlauncher.SettingRemoteActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:150
+-keep class com.shenma.tvlauncher.SettingWallpaperActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:50
+-keep class com.shenma.tvlauncher.SplashActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:154
+-keep class com.shenma.tvlauncher.TopicActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:129
+-keep class com.shenma.tvlauncher.TvStationActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:133
+-keep class com.shenma.tvlauncher.UserActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:41
+-keep class com.shenma.tvlauncher.application.MyApplication { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:74
+-keep class com.shenma.tvlauncher.tvback.TVBackActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:78
+-keep class com.shenma.tvlauncher.tvlive.TVLivePlayer { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:179
+-keep class com.shenma.tvlauncher.view.JSONService { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:175
+-keep class com.shenma.tvlauncher.view.MyService { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:171
+-keep class com.shenma.tvlauncher.view.MyServices { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:113
+-keep class com.shenma.tvlauncher.vod.LivePlayerActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:117
+-keep class com.shenma.tvlauncher.vod.SearchActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:109
+-keep class com.shenma.tvlauncher.vod.VideoPlayerActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:105
+-keep class com.shenma.tvlauncher.vod.VodDetailsActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:101
+-keep class com.shenma.tvlauncher.vod.VodTypeActivity { <init>(); }
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\mv_videoplayer.xml:90
+-keep class android.support.constraint.ConstraintLayout { <init>(...); }
+
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\mv_videoplayer.xml:269
+-keep class android.support.constraint.Guideline { <init>(...); }
+
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\activity_mainsss.xml:343
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\activity_mainss.xml:253
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\activity_mains.xml:335
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\activity_main.xml:313
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\layout_recommendss.xml:15
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\lives_main.xml:6
+-keep class com.baidu.cyberplayer.core.BVideoView { <init>(...); }
+
+# Referenced at C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7e069cb53c9b5b9c27990b79cc5fb216\res\layout\exo_simple_player_view.xml:18
+-keep class com.google.android.exoplayer2.ui.AspectRatioFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7e069cb53c9b5b9c27990b79cc5fb216\res\layout\exo_playback_control_view.xml:76
+-keep class com.google.android.exoplayer2.ui.DefaultTimeBar { <init>(...); }
+
+# Referenced at C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7e069cb53c9b5b9c27990b79cc5fb216\res\layout\exo_simple_player_view.xml:35
+-keep class com.google.android.exoplayer2.ui.SubtitleView { <init>(...); }
+
+# Referenced at C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\7e069cb53c9b5b9c27990b79cc5fb216\res\layout\exo_track_selection_dialog.xml:20
+-keep class com.google.android.exoplayer2.ui.TrackSelectionView { <init>(...); }
+
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\mv_videoplayer.xml:611
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\activity_mainsss.xml:141
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\activity_mainss.xml:67
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\activity_mains.xml:125
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\activity_main.xml:82
+-keep class com.shenma.tvlauncher.view.AlwaysMarqueeTextView { <init>(...); }
+
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\mv_videoplayer.xml:520
+-keep class com.shenma.tvlauncher.view.PlayerProgressBar { <init>(...); }
+
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\activity_tvback.xml:277
+-keep class com.shenma.tvlauncher.view.VideoView { <init>(...); }
+
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\layout_topicss.xml:55
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\layout_topics.xml:55
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\layout_topic.xml:55
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\layout_recommendsss.xml:134
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\layout_recommendss.xml:49
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\layout_recommends.xml:167
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\layout_recommend.xml:56
+-keep class com.shenma.tvlauncher.view.cornerlabelview.CornerLabelView { <init>(...); }
+
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\layout_recommendsss.xml:120
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\layout_recommendss.xml:37
+-keep class com.shenma.tvlauncher.view.shapeimageview.RoundedImageView { <init>(...); }
+
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\mv_videoplayer.xml:198
+-keep class com.shenma.tvlauncher.view.smoothprogressbar.SmoothProgressBar { <init>(...); }
+
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\mv_videoplayer.xml:109
+-keep class com.view.MarqueeTextView { <init>(...); }
+
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\mv_videoplayer.xml:171
+-keep class com.view.ScrollTextView { <init>(...); }
+
+# Referenced at C:\Users\Admin\Downloads\8888\SMTVCESHI\app\src\main\res\layout\mv_videoplayer.xml:9
+-keep class tv.danmaku.ijk.media.example.widget.media.IjkVideoView { <init>(...); }
+

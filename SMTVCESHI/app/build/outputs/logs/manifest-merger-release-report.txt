@@ -1,0 +1,516 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:2:1-188:12
+INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:2:1-188:12
+INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:2:1-188:12
+INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:2:1-188:12
+MERGED from [AliyunPlayer-5.4.4.1-full.aar] G:\AndroidJDK\caches\transforms-3\5c3fea7016912afea7607a71acfe6f18\transformed\AliyunPlayer-5.4.4.1-full\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.1] G:\AndroidJDK\caches\transforms-3\f182d69509595fcda9e75861905589cf\transformed\exoplayer-2.9.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:extension-rtmp:2.9.1] G:\AndroidJDK\caches\transforms-3\d2fdd909d366ceed688484f9c3014814\transformed\extension-rtmp-2.9.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.1] G:\AndroidJDK\caches\transforms-3\eb09e506e353c6aafbef8a20c886ca9f\transformed\exoplayer-dash-2.9.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.1] G:\AndroidJDK\caches\transforms-3\8ba40b2e0694173b5109bc26f5bc4cab\transformed\exoplayer-hls-2.9.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.1] G:\AndroidJDK\caches\transforms-3\0ca591ce4805224327b8caf0c34dd612\transformed\exoplayer-smoothstreaming-2.9.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.1] G:\AndroidJDK\caches\transforms-3\7bbe1b2dc50ad87616260cc7a308f5d7\transformed\exoplayer-ui-2.9.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] G:\AndroidJDK\caches\transforms-3\2062f7e875375779e42346aa312496f0\transformed\exoplayer-core-2.9.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-v4:28.0.0] G:\AndroidJDK\caches\transforms-3\80597a24fbb8a087ffa16516f45c5a7f\transformed\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] G:\AndroidJDK\caches\transforms-3\8ed1b7ee83dc0a43189eca0c5e8d010a\transformed\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:28.0.0] G:\AndroidJDK\caches\transforms-3\18d5b9e77abc18392c71e3db713eb1ca\transformed\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] G:\AndroidJDK\caches\transforms-3\edf5bc8636101594c8ae6db0b803b841\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] G:\AndroidJDK\caches\transforms-3\7b3b4c034b72a813955c4725349ee3a7\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] G:\AndroidJDK\caches\transforms-3\0263e0649561565660f2647ec43e734b\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] G:\AndroidJDK\caches\transforms-3\b394fa6ee6375d9f28f53c1d915f890e\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] G:\AndroidJDK\caches\transforms-3\18773cd889385f2b8859ed21e796e4b6\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] G:\AndroidJDK\caches\transforms-3\444d48e9e1dd330e3fc1435d268e5ceb\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] G:\AndroidJDK\caches\transforms-3\9aa0b013fe95acca61e4b4734a582fcb\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] G:\AndroidJDK\caches\transforms-3\bc2d55202123cd62fd8851bd40d13df5\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] G:\AndroidJDK\caches\transforms-3\c02ecdb33fa27d263b4ea30b482eea0c\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] G:\AndroidJDK\caches\transforms-3\3a9d3956a1baf452ea4602169bfede66\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] G:\AndroidJDK\caches\transforms-3\9f71b5d967181b4f44af6d3d85245ff2\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] G:\AndroidJDK\caches\transforms-3\7172112ab543536ad4df127264db9ed7\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] G:\AndroidJDK\caches\transforms-3\c25f206f36d7a571d3d19a8ae5791b4b\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] G:\AndroidJDK\caches\transforms-3\bc1a5312c7fb33821f1866e17b131f6f\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] G:\AndroidJDK\caches\transforms-3\33ca5934d14a4b8e5887a8f0873d185b\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] G:\AndroidJDK\caches\transforms-3\f7647a296bca86c43de08eb3423231e5\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] G:\AndroidJDK\caches\transforms-3\c1078fa58f5223e317ca156bf542bcbe\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] G:\AndroidJDK\caches\transforms-3\72c18685bf7df8e744bf8508218d13ac\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] G:\AndroidJDK\caches\transforms-3\d63ca5ca1a547e6dfafb94de9df436e9\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] G:\AndroidJDK\caches\transforms-3\2d7ef7c44d2e0575519970a7ce7ba376\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] G:\AndroidJDK\caches\transforms-3\48715d5b5f14aa54f2654ae6aff6ed24\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] G:\AndroidJDK\caches\transforms-3\0a03fd3179d12bd9e1a4489735ecb865\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] G:\AndroidJDK\caches\transforms-3\2e9107594ff6cd32c5bb243cfd3f7ed2\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] G:\AndroidJDK\caches\transforms-3\b28501fdc90dd66b681bb905a01c238a\transformed\rtmp-client-3.0.1\AndroidManifest.xml:2:1-13:12
+INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:2:1-188:12
+INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:2:1-188:12
+INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:2:1-188:12
+	package
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:7:5-30
+		INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml
+	platformBuildVersionName
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:5:5-43
+	platformBuildVersionCode
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:4:5-34
+supports-screens
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:9:5-14:39
+	android:largeScreens
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:11:9-36
+	android:smallScreens
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:14:9-36
+	android:normalScreens
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:12:9-37
+	android:resizeable
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:13:9-34
+	android:anyDensity
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:10:9-34
+uses-permission#android.permission.INTERNET
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:22:5-67
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] G:\AndroidJDK\caches\transforms-3\b28501fdc90dd66b681bb905a01c238a\transformed\rtmp-client-3.0.1\AndroidManifest.xml:11:5-67
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] G:\AndroidJDK\caches\transforms-3\b28501fdc90dd66b681bb905a01c238a\transformed\rtmp-client-3.0.1\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:23:5-76
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:23:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:24:5-76
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:24:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] G:\AndroidJDK\caches\transforms-3\2062f7e875375779e42346aa312496f0\transformed\exoplayer-core-2.9.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] G:\AndroidJDK\caches\transforms-3\2062f7e875375779e42346aa312496f0\transformed\exoplayer-core-2.9.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:28:5-75
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:28:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:29:5-73
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:29:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:30:5-68
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:30:22-65
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:31:22-81
+uses-feature#android.hardware.type.television
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:33:5-35:35
+	android:required
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:35:9-32
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:34:9-56
+application
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:36:5-187:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] G:\AndroidJDK\caches\transforms-3\8ed1b7ee83dc0a43189eca0c5e8d010a\transformed\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] G:\AndroidJDK\caches\transforms-3\8ed1b7ee83dc0a43189eca0c5e8d010a\transformed\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] G:\AndroidJDK\caches\transforms-3\7172112ab543536ad4df127264db9ed7\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] G:\AndroidJDK\caches\transforms-3\7172112ab543536ad4df127264db9ed7\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] G:\AndroidJDK\caches\transforms-3\c25f206f36d7a571d3d19a8ae5791b4b\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] G:\AndroidJDK\caches\transforms-3\c25f206f36d7a571d3d19a8ae5791b4b\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] G:\AndroidJDK\caches\transforms-3\7172112ab543536ad4df127264db9ed7\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:41:9-41
+	android:hardwareAccelerated
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:39:9-43
+	android:largeHeap
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:42:9-33
+	android:icon
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:40:9-38
+	android:allowBackup
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:38:9-35
+	android:theme
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:43:9-67
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:37:9-71
+activity#com.shenma.tvlauncher.SplashActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:44:9-55:20
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:48:13-50
+	android:label
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:47:13-45
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:46:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:45:13-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.MONKEY
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:49:13-54:29
+action#android.intent.action.MAIN
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.DEFAULT
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:51:17-76
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:51:27-73
+category#android.intent.category.MONKEY
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:52:17-75
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:52:27-72
+category#android.intent.category.LAUNCHER
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:53:27-74
+meta-data#android.max_aspect
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:58:9-76
+	android:value
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:58:54-73
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:58:20-53
+activity#com.shenma.tvlauncher.HomeActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:60:9-64:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:64:13-50
+	android:launchMode
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:63:13-44
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:62:13-74
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:61:13-62
+activity#com.shenma.tvlauncher.tvback.TVBackActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:65:9-68:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:68:13-50
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:67:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:66:13-71
+activity#com.shenma.tvlauncher.tvlive.TVLivePlayer
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:69:9-78:20
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:73:13-50
+	android:process
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:72:13-48
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:71:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:70:13-69
+intent-filter#action:name:android.intent.action.START.TVLIVE+category:name:android.intent.category.DEFAULT
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:74:13-77:29
+action#android.intent.action.START.TVLIVE
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:75:17-77
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:75:25-74
+activity#com.shenma.tvlauncher.BaseActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:79:9-82:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:82:13-50
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:81:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:80:13-62
+activity#com.shenma.tvlauncher.AboutActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:83:9-86:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:86:13-50
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:85:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:84:13-63
+activity#com.shenma.tvlauncher.SettingPlayActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:87:9-90:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:90:13-50
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:89:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:88:13-69
+activity#com.shenma.tvlauncher.vod.VodTypeActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:91:9-94:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:94:13-50
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:93:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:92:13-69
+activity#com.shenma.tvlauncher.vod.VodDetailsActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:95:9-98:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:98:13-50
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:97:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:96:13-72
+activity#com.shenma.tvlauncher.vod.VideoPlayerActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:99:9-102:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:102:13-50
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:101:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:100:13-73
+activity#com.shenma.tvlauncher.vod.LivePlayerActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:103:9-106:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:106:13-50
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:105:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:104:13-72
+activity#com.shenma.tvlauncher.vod.SearchActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:107:9-110:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:110:13-50
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:109:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:108:13-68
+activity#com.shenma.tvlauncher.ClearActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:111:9-114:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:114:13-50
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:113:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:112:13-63
+activity#com.shenma.tvlauncher.OtherActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:115:9-118:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:118:13-50
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:117:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:116:13-63
+activity#com.shenma.tvlauncher.TvStationActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:119:9-122:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:122:13-50
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:121:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:120:13-67
+activity#com.shenma.tvlauncher.UserActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:123:9-126:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:126:13-50
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:125:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:124:13-62
+activity#com.shenma.tvlauncher.SettingRemoteActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:127:9-130:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:130:13-50
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:129:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:128:13-71
+activity#com.shenma.tvlauncher.AppManageActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:131:9-135:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:135:13-50
+	android:launchMode
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:134:13-48
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:133:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:132:13-67
+activity#com.shenma.tvlauncher.SettingActActvity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:136:9-139:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:139:13-50
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:138:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:137:13-67
+activity#com.shenma.tvlauncher.SettingWallpaperActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:140:9-143:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:143:13-50
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:142:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:141:13-74
+activity#com.shenma.tvlauncher.TopicActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:144:9-147:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:147:13-50
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:146:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:145:13-63
+activity#com.shenma.tvlauncher.EmpowerActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:148:9-151:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:151:13-50
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:150:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:149:13-65
+activity#com.shenma.tvlauncher.HistoryActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:152:9-155:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:155:13-50
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:154:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:153:13-65
+activity#com.shenma.tvlauncher.SettingInvActivity
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:156:9-159:53
+	android:screenOrientation
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:159:13-50
+	android:configChanges
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:158:13-63
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:157:13-68
+service#com.shenma.tvlauncher.view.MyServices
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:160:9-163:67
+	android:enabled
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:161:13-35
+	android:exported
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:162:13-37
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:163:13-65
+service#com.shenma.tvlauncher.view.MyService
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:164:9-167:66
+	android:enabled
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:165:13-35
+	android:exported
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:166:13-37
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:167:13-64
+service#com.shenma.tvlauncher.view.JSONService
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:168:9-171:69
+	android:enabled
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:169:13-35
+	android:exported
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:170:13-37
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:171:13-66
+meta-data#UMENG_APPKEY
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:172:9-174:32
+	android:value
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:174:13-29
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:173:13-40
+meta-data#UMENG_CHANNEL
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:175:9-177:36
+	android:value
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:177:13-33
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:176:13-41
+meta-data#UMENG_KEY
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:178:9-180:50
+	android:value
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:180:13-47
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:179:13-37
+meta-data#TALKINGDATA_CHANNEL
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:181:9-183:36
+	android:value
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:183:13-33
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:182:13-47
+meta-data#TALKINGDATA_VALUE
+ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:184:9-186:54
+	android:value
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:186:13-51
+	android:name
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml:185:13-45
+uses-sdk
+INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml
+INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml
+MERGED from [AliyunPlayer-5.4.4.1-full.aar] G:\AndroidJDK\caches\transforms-3\5c3fea7016912afea7607a71acfe6f18\transformed\AliyunPlayer-5.4.4.1-full\AndroidManifest.xml:7:5-9:41
+MERGED from [AliyunPlayer-5.4.4.1-full.aar] G:\AndroidJDK\caches\transforms-3\5c3fea7016912afea7607a71acfe6f18\transformed\AliyunPlayer-5.4.4.1-full\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.1] G:\AndroidJDK\caches\transforms-3\f182d69509595fcda9e75861905589cf\transformed\exoplayer-2.9.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.1] G:\AndroidJDK\caches\transforms-3\f182d69509595fcda9e75861905589cf\transformed\exoplayer-2.9.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-rtmp:2.9.1] G:\AndroidJDK\caches\transforms-3\d2fdd909d366ceed688484f9c3014814\transformed\extension-rtmp-2.9.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-rtmp:2.9.1] G:\AndroidJDK\caches\transforms-3\d2fdd909d366ceed688484f9c3014814\transformed\extension-rtmp-2.9.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.1] G:\AndroidJDK\caches\transforms-3\eb09e506e353c6aafbef8a20c886ca9f\transformed\exoplayer-dash-2.9.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.1] G:\AndroidJDK\caches\transforms-3\eb09e506e353c6aafbef8a20c886ca9f\transformed\exoplayer-dash-2.9.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.1] G:\AndroidJDK\caches\transforms-3\8ba40b2e0694173b5109bc26f5bc4cab\transformed\exoplayer-hls-2.9.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.1] G:\AndroidJDK\caches\transforms-3\8ba40b2e0694173b5109bc26f5bc4cab\transformed\exoplayer-hls-2.9.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.1] G:\AndroidJDK\caches\transforms-3\0ca591ce4805224327b8caf0c34dd612\transformed\exoplayer-smoothstreaming-2.9.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.1] G:\AndroidJDK\caches\transforms-3\0ca591ce4805224327b8caf0c34dd612\transformed\exoplayer-smoothstreaming-2.9.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.1] G:\AndroidJDK\caches\transforms-3\7bbe1b2dc50ad87616260cc7a308f5d7\transformed\exoplayer-ui-2.9.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.1] G:\AndroidJDK\caches\transforms-3\7bbe1b2dc50ad87616260cc7a308f5d7\transformed\exoplayer-ui-2.9.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] G:\AndroidJDK\caches\transforms-3\2062f7e875375779e42346aa312496f0\transformed\exoplayer-core-2.9.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] G:\AndroidJDK\caches\transforms-3\2062f7e875375779e42346aa312496f0\transformed\exoplayer-core-2.9.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:28.0.0] G:\AndroidJDK\caches\transforms-3\80597a24fbb8a087ffa16516f45c5a7f\transformed\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] G:\AndroidJDK\caches\transforms-3\80597a24fbb8a087ffa16516f45c5a7f\transformed\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] G:\AndroidJDK\caches\transforms-3\8ed1b7ee83dc0a43189eca0c5e8d010a\transformed\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] G:\AndroidJDK\caches\transforms-3\8ed1b7ee83dc0a43189eca0c5e8d010a\transformed\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:28.0.0] G:\AndroidJDK\caches\transforms-3\18d5b9e77abc18392c71e3db713eb1ca\transformed\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] G:\AndroidJDK\caches\transforms-3\18d5b9e77abc18392c71e3db713eb1ca\transformed\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] G:\AndroidJDK\caches\transforms-3\edf5bc8636101594c8ae6db0b803b841\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] G:\AndroidJDK\caches\transforms-3\edf5bc8636101594c8ae6db0b803b841\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] G:\AndroidJDK\caches\transforms-3\7b3b4c034b72a813955c4725349ee3a7\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] G:\AndroidJDK\caches\transforms-3\7b3b4c034b72a813955c4725349ee3a7\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] G:\AndroidJDK\caches\transforms-3\0263e0649561565660f2647ec43e734b\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] G:\AndroidJDK\caches\transforms-3\0263e0649561565660f2647ec43e734b\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] G:\AndroidJDK\caches\transforms-3\b394fa6ee6375d9f28f53c1d915f890e\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] G:\AndroidJDK\caches\transforms-3\b394fa6ee6375d9f28f53c1d915f890e\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] G:\AndroidJDK\caches\transforms-3\18773cd889385f2b8859ed21e796e4b6\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] G:\AndroidJDK\caches\transforms-3\18773cd889385f2b8859ed21e796e4b6\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] G:\AndroidJDK\caches\transforms-3\444d48e9e1dd330e3fc1435d268e5ceb\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] G:\AndroidJDK\caches\transforms-3\444d48e9e1dd330e3fc1435d268e5ceb\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] G:\AndroidJDK\caches\transforms-3\9aa0b013fe95acca61e4b4734a582fcb\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] G:\AndroidJDK\caches\transforms-3\9aa0b013fe95acca61e4b4734a582fcb\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] G:\AndroidJDK\caches\transforms-3\bc2d55202123cd62fd8851bd40d13df5\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] G:\AndroidJDK\caches\transforms-3\bc2d55202123cd62fd8851bd40d13df5\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] G:\AndroidJDK\caches\transforms-3\c02ecdb33fa27d263b4ea30b482eea0c\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] G:\AndroidJDK\caches\transforms-3\c02ecdb33fa27d263b4ea30b482eea0c\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] G:\AndroidJDK\caches\transforms-3\3a9d3956a1baf452ea4602169bfede66\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] G:\AndroidJDK\caches\transforms-3\3a9d3956a1baf452ea4602169bfede66\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] G:\AndroidJDK\caches\transforms-3\9f71b5d967181b4f44af6d3d85245ff2\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] G:\AndroidJDK\caches\transforms-3\9f71b5d967181b4f44af6d3d85245ff2\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] G:\AndroidJDK\caches\transforms-3\7172112ab543536ad4df127264db9ed7\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] G:\AndroidJDK\caches\transforms-3\7172112ab543536ad4df127264db9ed7\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] G:\AndroidJDK\caches\transforms-3\c25f206f36d7a571d3d19a8ae5791b4b\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] G:\AndroidJDK\caches\transforms-3\c25f206f36d7a571d3d19a8ae5791b4b\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] G:\AndroidJDK\caches\transforms-3\bc1a5312c7fb33821f1866e17b131f6f\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] G:\AndroidJDK\caches\transforms-3\bc1a5312c7fb33821f1866e17b131f6f\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] G:\AndroidJDK\caches\transforms-3\33ca5934d14a4b8e5887a8f0873d185b\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] G:\AndroidJDK\caches\transforms-3\33ca5934d14a4b8e5887a8f0873d185b\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] G:\AndroidJDK\caches\transforms-3\f7647a296bca86c43de08eb3423231e5\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] G:\AndroidJDK\caches\transforms-3\f7647a296bca86c43de08eb3423231e5\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] G:\AndroidJDK\caches\transforms-3\c1078fa58f5223e317ca156bf542bcbe\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] G:\AndroidJDK\caches\transforms-3\c1078fa58f5223e317ca156bf542bcbe\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] G:\AndroidJDK\caches\transforms-3\72c18685bf7df8e744bf8508218d13ac\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] G:\AndroidJDK\caches\transforms-3\72c18685bf7df8e744bf8508218d13ac\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] G:\AndroidJDK\caches\transforms-3\d63ca5ca1a547e6dfafb94de9df436e9\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] G:\AndroidJDK\caches\transforms-3\d63ca5ca1a547e6dfafb94de9df436e9\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] G:\AndroidJDK\caches\transforms-3\2d7ef7c44d2e0575519970a7ce7ba376\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] G:\AndroidJDK\caches\transforms-3\2d7ef7c44d2e0575519970a7ce7ba376\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] G:\AndroidJDK\caches\transforms-3\48715d5b5f14aa54f2654ae6aff6ed24\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] G:\AndroidJDK\caches\transforms-3\48715d5b5f14aa54f2654ae6aff6ed24\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] G:\AndroidJDK\caches\transforms-3\0a03fd3179d12bd9e1a4489735ecb865\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] G:\AndroidJDK\caches\transforms-3\0a03fd3179d12bd9e1a4489735ecb865\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] G:\AndroidJDK\caches\transforms-3\2e9107594ff6cd32c5bb243cfd3f7ed2\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] G:\AndroidJDK\caches\transforms-3\2e9107594ff6cd32c5bb243cfd3f7ed2\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] G:\AndroidJDK\caches\transforms-3\b28501fdc90dd66b681bb905a01c238a\transformed\rtmp-client-3.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] G:\AndroidJDK\caches\transforms-3\b28501fdc90dd66b681bb905a01c238a\transformed\rtmp-client-3.0.1\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml
+INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml
+		ADDED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidProject\SMTVCESHI\app\src\main\AndroidManifest.xml

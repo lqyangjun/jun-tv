@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:background="@drawable/media_controler_background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ListView
+        android:gravity="center"
+        android:id="@+id/media_controler_menu"
+        android:focusableInTouchMode="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/sm_50"
+        android:layout_marginBottom="@dimen/sm_60"
+        android:listSelector="@drawable/menu_list_selector"
+        android:cacheColorHint="#00000000"
+        android:divider="#ffffcc00"/>
+</LinearLayout>

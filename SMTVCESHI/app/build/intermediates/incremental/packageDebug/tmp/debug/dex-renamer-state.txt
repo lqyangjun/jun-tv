@@ -1,0 +1,4 @@
+#Sat Apr 11 23:26:40 CST 2026
+base.0=G\:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

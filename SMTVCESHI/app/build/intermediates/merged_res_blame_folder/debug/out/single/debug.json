@@ -1,0 +1,2874 @@
+[
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_splash.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_play.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\play.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_bottom_titile.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\bottom_titile.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_more.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\more.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_list_item.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\selector_list_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_changetype_left.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\changetype_left.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_app_iv_2.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\app_iv_2.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_remote.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\remote.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_gallery_item.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\gallery_item.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wireless_network_signal_1.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\wireless_network_signal_1.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_video_details_menu_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\video_details_menu_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_sunday_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_sunday_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_progress_draw.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\custom_progress_draw.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_fl_re_3.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\fl_re_3.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_default_poster.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\default_poster.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_video_detail_key_xuanji.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\video_detail_key_xuanji.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_menu_bg_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\menu_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_btn_left_round.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\bg_btn_left_round.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_voice_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\voice_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_topic_detail_msg_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\topic_detail_msg_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_select_left_arrows_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\select_left_arrows_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_key_search_h.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\key_search_h.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_user_form.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\user_form.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_setting_bbg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\setting_bbg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_1.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\button_1.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_svip.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-mdpi\\svip.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_media_pg.9.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\media_pg.9.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wifi_signal_p_3.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\wifi_signal_p_3.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_detailsource_bg_h.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\detailsource_bg_h.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_wednesday_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_wednesday_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_lo_run2.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\lo_run2.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_exit_bt_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\exit_bt_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_user.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\ic_user.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wifi_signal_o_3.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\wifi_signal_o_3.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_forget_search_voice.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\forget_search_voice.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_wifi.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\wifi.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_media_pg.9.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\media_pg.9.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_kmss.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-mdpi\\kmss.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_sj_h.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\sj_h.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_sousuo_icon.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-mdpi\\sousuo_icon.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_search.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_vod_menu_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\vod_menu_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_setting_about.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_setting_about.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mainss.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\activity_mainss.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_wednesday_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_wednesday_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_test_video.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_test_video.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_home_top_icon_record.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\home_top_icon_record.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_search_new.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_search_new.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_media_controler.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_media_controler.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_video_details_zhuiju_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\video_details_zhuiju_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_video_details_recommend_item.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_video_details_recommend_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_xuanji_h.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\xuanji_h.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_gonggao.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\gonggao.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_fliter_bg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\fliter_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_btn_bottom_round.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\bg_btn_bottom_round.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_446_49_sele.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\list_446_49_sele.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_sp_h.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\sp_h.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_input2.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\bg_input2.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_default_poster.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\default_poster.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_changetype_right.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\changetype_right.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_text_bgss.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\text_bgss.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wireless_network_signal_3.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\wireless_network_signal_3.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_friday_s.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_friday_s.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_mobile.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\mobile.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_default_film_img.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\default_film_img.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_home_top_icon_search.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\home_top_icon_search.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_video_details_replay_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\video_details_replay_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_saturday_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_saturday_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_live_channel_list_item_bg_foc.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\live_channel_list_item_bg_foc.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_settingss.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_settingss.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_gonggao.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\gonggao.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_tv_back_446x406.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\tv_back_446x406.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_toast_smile.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\toast_smile.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_live_fourlink.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\live_fourlink.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_friday_s.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_friday_s.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_exit_bg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\exit_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_loading.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\icon_loading.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_onplay.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\onplay.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_live_channel_list_bg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\live_channel_list_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_mv_ic_volume_high.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\mv_ic_volume_high.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_hao366x180.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\hao366x180.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_monday_s.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_monday_s.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_transmission_icon.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\transmission_icon.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_iv_search.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\iv_search.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_gexing.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\gexing.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_hao366x180.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\hao366x180.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_kmls.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-mdpi\\kmls.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_vod_line761.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\vod_line761.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_jilu.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-mdpi\\jilu.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_monday_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_monday_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_detailsource_bg_s.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\detailsource_bg_s.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\anim_controler_up.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\anim\\controler_up.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_epg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\epg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_empty_frame_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\empty_frame_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_my_app_item.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\my_app_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_member_left_background.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\member_left_background.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_settings.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_watchback.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\watchback.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_film_name_bg_h.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\film_name_bg_h.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_tv_back_300x670.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\tv_back_300x670.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_remote.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\remote.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_video_textcolor_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\video_textcolor_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_binding_form.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\binding_form.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_about.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\anim_breathing.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\anim\\breathing.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_fl_re_3.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\fl_re_3.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_media_h.9.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\media_h.9.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_type_details_filter_item.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_type_details_filter_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wifi_signal_p_0.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\wifi_signal_p_0.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_button_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\button_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_thursday_s.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_thursday_s.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_film_name_bg_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\film_name_bg_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_media_menu.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\media_menu.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_table_media_info_section.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\table_media_info_section.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_full_9_sel.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\full_9_sel.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_white_borderss.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\white_borderss.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_line_xg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\line_xg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_channellist.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\channellist.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_wednesday_s.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_wednesday_s.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_top_item_bgs.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\home_top_item_bgs.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_key_search_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\key_search_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_user_form_bak.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\user_form_bak.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_exit_button.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\exit_button.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_vod_menu_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\vod_menu_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_s.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\bg_s.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_media_menu.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\media_menu.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_introduce_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\introduce_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_film_item_selected.9.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\film_item_selected.9.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_video_detail_key_xiangqing.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\video_detail_key_xiangqing.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_filter_focus.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\filter_focus.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_focus.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\button_focus.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_network.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\network.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_video_detail_key_line.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\video_detail_key_line.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\anim_loading_rotate.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\anim\\loading_rotate.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_app_iv_myapp.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\app_iv_myapp.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_favicon_n_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\favicon_n_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wifi_signal_o_2.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\wifi_signal_o_2.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_btn_rectangle.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\bg_btn_rectangle.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_shapeench__top_bar.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\shapeench__top_bar.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_tuesday_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_tuesday_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_app_icon_focus_bg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\app_icon_focus_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_hao260x366.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\hao260x366.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_local_app.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\local_app.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_box.9.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\box.9.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_home_foot_icon_04.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\home_foot_icon_04.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_app_manage_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\app_manage_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_sm_pro2.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\sm_pro2.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_sm_pro2.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\sm_pro2.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_channel_item_textcolor_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\channel_item_textcolor_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_clear_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\clear_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_exit_bg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\exit_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_recommendsss.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_recommendsss.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_app_iv_myapp.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\app_iv_myapp.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_mobile.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\mobile.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_play_h.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\play_h.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_live_channel_list_item_bg_foc.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\live_channel_list_item_bg_foc.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_hao260x366.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\hao260x366.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg_play_center.9.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\bg_play_center.9.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_wednesday_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_wednesday_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wifi_signal_o_1.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\wifi_signal_o_1.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_video_detail_key_xiangqing.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\video_detail_key_xiangqing.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_check_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\check_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_friday_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_friday_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_clean.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\clean.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_frame_no.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\frame_no.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_tv_exit_dialog_layout.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\tv_exit_dialog_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_topic_item.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\topic_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_show.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\show.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_background_play_item_bg_f.9.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\background_play_item_bg_f.9.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_itv_exit_cancle.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\itv_exit_cancle.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_top_bar_select.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\shape_top_bar_select.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_gonggao.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\gonggao.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_videoplayer.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_videoplayer.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_network.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\network.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_so_box.9.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\so_box.9.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_frame_bg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\frame_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_foot_bar_default.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\shape_foot_bar_default.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_filter_line_ver.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\filter_line_ver.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_user_type_details_item.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\user_type_details_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_onplay.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\onplay.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_normal_bga.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\button_normal_bga.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_keypad_back_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\keypad_back_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_replay_h.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\replay_h.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_mv_ic_volume_mute.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\mv_ic_volume_mute.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_app_iv_0.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\app_iv_0.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_enh.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\enh.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_home_foot_icon_02.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\home_foot_icon_02.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_recommends.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_recommends.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_sp_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\sp_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_saturday_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_saturday_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_fl_re_0.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\fl_re_0.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_select_left_arrows_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\select_left_arrows_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_logout_dialog.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\logout_dialog.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_setting_act.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_setting_act.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_default_film_img.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\default_film_img.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_live_loading_dialog.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\live_loading_dialog.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_kmhy.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-mdpi\\kmhy.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wifi_signal_o_4.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\wifi_signal_o_4.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_exit_button.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\exit_button.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_searchs.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\ic_searchs.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_thursday_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_thursday_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_changetype_right.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\changetype_right.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_iv_message_board.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\iv_message_board.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_media_pause.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\media_pause.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_keypad_clear_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\keypad_clear_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_filter_normal.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\filter_normal.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_friday_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_friday_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_menu_focus.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\bg_menu_focus.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_video_details_search_n_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\video_details_search_n_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_mv_ic_volume_low.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\mv_ic_volume_low.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_live_channel_list_arrow_down.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\live_channel_list_arrow_down.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_background_play_item_bg_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\background_play_item_bg_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_home_foot_icon_03.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\home_foot_icon_03.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_tv_back_tv.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\tv_back_tv.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_fl_re_1.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\fl_re_1.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wifi_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\wifi_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_line760.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\line760.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_wlan_dialog_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\wlan_dialog_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wifi_signal_o_3.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\wifi_signal_o_3.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_member_icon.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\member_icon.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_transmission_icon.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\transmission_icon.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_wifi_lock_signal.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\wifi_lock_signal.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_type_details_item.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_type_details_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_home_foot_icon_04.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\home_foot_icon_04.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_kmsz.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-mdpi\\kmsz.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_forget_dialog.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\forget_dialog.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_tv_bg_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\tv_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_vod_line35.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\vod_line35.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_enh.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\enh.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_toast_err.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\toast_err.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_diver.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\diver.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_home_foot_icon_03.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\home_foot_icon_03.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_foot_bar_select.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\shape_foot_bar_select.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_update_msg_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\update_msg_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_watchback.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\watchback.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_media_controler_background.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\media_controler_background.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_sunday_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_sunday_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_video_details_recommend.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_video_details_recommend.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_home_line.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\home_line.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_live_toast.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\live_toast.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_button_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\button_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_gywm.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-mdpi\\gywm.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_app_favorite.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\app_favorite.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_notice_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\notice_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_keypad_voice_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\keypad_voice_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_focuss.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\button_focuss.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_qchc.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-mdpi\\qchc.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_lo_fold.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\lo_fold.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_vod_menu_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\vod_menu_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_settingsss.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_settingsss.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_channeladd.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\channeladd.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_tuesday_s.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_tuesday_s.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_list_446_49_sele.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\list_446_49_sele.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_fliter_gou.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\fliter_gou.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_itv_exit_cancle.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\itv_exit_cancle.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_tv_back_wenesday_seletor.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\tv_back_wenesday_seletor.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_topic_focus.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\topic_focus.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_xuanji_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\xuanji_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_home_top_icon_search.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\home_top_icon_search.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_tv.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_tv.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_setting.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_setting.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_keybord_bg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\keybord_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_wednesday_s.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_wednesday_s.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_voice_h.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\voice_h.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_wednesday_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_wednesday_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_sm_pro1.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\sm_pro1.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_osd_subtitles_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\osd_subtitles_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_live_channel_list_bg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\live_channel_list_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_search_keybord_full.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_search_keybord_full.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_menu_list_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\menu_list_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_tv_back_tuesday_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\tv_back_tuesday_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_tv_toast.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\tv_toast.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_loadingprogress2.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\loadingprogress2.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_member_textcolor_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\member_textcolor_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wifi.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\wifi.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_video_bg_selector3.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\video_bg_selector3.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\anim_dialog_fade_out.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\anim\\dialog_fade_out.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_vod.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\activity_vod.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_myapp_gridview_item.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\myapp_gridview_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_favicon_n_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\favicon_n_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_wifi_content_conn.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\wifi_content_conn.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_smtv_toast_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\smtv_toast_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\anim_setbig2.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\anim\\setbig2.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg.jpg.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\bg.jpg"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\anim_menu_fade_in.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\anim\\menu_fade_in.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_huodong.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\huodong.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_tv_back_thuresday_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\tv_back_thuresday_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_lives_main.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\lives_main.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_zhuiju_n_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\zhuiju_n_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_channeltype_bg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\channeltype_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_sm_pro4.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\sm_pro4.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_monday_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_monday_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_tv_station.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\tv_station.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_menu_bg_h.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\menu_bg_h.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_keypad_ench_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\keypad_ench_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_top_bar_focus_item_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\selector_top_bar_focus_item_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_title_button_default.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\title_button_default.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_media_playstatus.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\media_playstatus.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_iv_store.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\iv_store.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_seetting_play_item_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\selector_seetting_play_item_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_forget_empower.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\forget_empower.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_live_swich_line.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\live_swich_line.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_home_foot_icon_01.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\home_foot_icon_01.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_topic_focus.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\topic_focus.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_title_textcolor_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\title_textcolor_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_setting_play.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_setting_play.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_list_divider.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\list_divider.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_backspace_h.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\backspace_h.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_nur_ic_kuaijin_r.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\nur_ic_kuaijin_r.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_sm_logo.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\sm_logo.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\anim_anim_enter.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\anim\\anim_enter.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_sm_pro5.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\sm_pro5.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_channellist.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\channellist.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_live_channel_item_textcolor_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\live_channel_item_textcolor_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_setting_wifi.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_setting_wifi.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_iv_history.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\iv_history.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_check_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\check_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_view.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\dialog_view.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_search.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_video_detail_key_line.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\video_detail_key_line.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_line.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\line.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_top_bar_default.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\shape_top_bar_default.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_key_h.9.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\key_h.9.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_setting_inv.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_setting_inv.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_mv_ic_brightness.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\mv_ic_brightness.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_video_details.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_video_details.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_tv_media_controler.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\tv_media_controler.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_live_channel_list_arrow_down.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\live_channel_list_arrow_down.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_vod_line761.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\vod_line761.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\edit_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_controler_menus.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_controler_menus.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_yizhuiju_n_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\yizhuiju_n_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_film_name_bg_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\film_name_bg_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_wifi_dialog_bt_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\wifi_dialog_bt_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_video_textbg_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\video_textbg_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_yc_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\yc_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_home_foot_icon_02.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\home_foot_icon_02.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_video_detail_key_bg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\video_detail_key_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_media_pause.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\media_pause.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_menu_normal.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\bg_menu_normal.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_play.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\raw_imgview_star.svg.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\raw\\imgview_star.svg"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_tv_controler_menu.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\tv_controler_menu.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_menu_textcolor_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\menu_textcolor_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_line199.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\line199.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_wifi_ap_config.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\wifi_ap_config.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_details_key_list_items.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_details_key_list_items.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wifi_signal_p_1.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\wifi_signal_p_1.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_nur_ic_kuaijin.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\nur_ic_kuaijin.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_home_foot_icon_01.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\home_foot_icon_01.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_video_details_bg.jpg.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\video_details_bg.jpg"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_history.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\ic_history.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_gonggao.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\gonggao.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_video_details_introduce.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_video_details_introduce.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_sunday_s.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_sunday_s.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_tuesday_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_tuesday_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_media_bg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\media_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_tv_back_saturday_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\tv_back_saturday_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_wode.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-mdpi\\wode.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_topic.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_topic.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_iv_user.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\iv_user.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wifi_title.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\wifi_title.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_forget_search_empower.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\forget_search_empower.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_tuesday_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_tuesday_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wifi_signal_p_2.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\wifi_signal_p_2.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_title_button_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\title_button_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_layer_battery_progress.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\layer_battery_progress.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wifi_signal_o_2.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\wifi_signal_o_2.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_wallpaper.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\ic_wallpaper.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_about.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\about.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_full_9_h.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\full_9_h.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_white_borders.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\white_borders.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_video_detail_key_bg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\video_detail_key_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_image_border.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\shape_image_border.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_btn_right_round.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\bg_btn_right_round.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_live_channel_list_item_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\live_channel_list_item_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wireless_network_signal_0.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\wireless_network_signal_0.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_vip.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\ic_vip.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_sm_pro1.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\sm_pro1.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_tv_back_monday_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\tv_back_monday_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_collect.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\ic_collect.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_video_details_favicon_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\video_details_favicon_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_livetv.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\livetv.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_fliter_line_hor.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\fliter_line_hor.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_check_cf.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\check_cf.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_history.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_tv_back_friday_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\tv_back_friday_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_details_key_list_item.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_details_key_list_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_diy.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\diy.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_toast_smile.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\toast_smile.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_forget_form.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\forget_form.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wifi_signal_o_0.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\wifi_signal_o_0.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_top_item_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\home_top_item_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wifi_signal_p_0.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\wifi_signal_p_0.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_setting_remote.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_setting_remote.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_empower.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_empower.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_yifavicon_n_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\yifavicon_n_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_controler_menu.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\controler_menu.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_foot_bar_focus_item_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\selector_foot_bar_focus_item_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_media_menu_background.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\media_menu_background.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_app_iv_1.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\app_iv_1.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_table_media_info_row2.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\table_media_info_row2.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_thursday_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_thursday_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_topics.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_topics.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_lo_run1.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\lo_run1.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_filter_sleted.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\filter_sleted.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_huikan.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\huikan.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_app_icon_focus_bg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\app_icon_focus_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_controler_menu.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_controler_menu.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_menu_list_selectors.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\menu_list_selectors.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_shape_jump_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\shape_jump_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_btn_top_round.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\bg_btn_top_round.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_keypad_button_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\keypad_button_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_bottom_item_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\home_bottom_item_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_filter_line_ver.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\filter_line_ver.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_menu_focus.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\menu_focus.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_tv_back_300x670.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\tv_back_300x670.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_sm_pro3.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\sm_pro3.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_media_h.9.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\media_h.9.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_pearl_blue_border.9.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\pearl_blue_border.9.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_kmff.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-mdpi\\kmff.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_user_pwd.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\user_pwd.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_diy.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\diy.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_gonggao_root_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\gonggao_root_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_setting_manage_divider.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\setting_manage_divider.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_settings.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_settings.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mainsss.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\activity_mainsss.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_app_iv_1.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\app_iv_1.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_gonggao.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\gonggao.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_toast_shut.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\toast_shut.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_tv_progress_dialog.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\tv_progress_dialog.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_dialog_style.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\dialog_style.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\raw_imgview_hexagon.svg.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\raw\\imgview_hexagon.svg"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_iv_user.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\iv_user.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_transparent.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\transparent.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_play_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\play_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_search_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\search_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_replay_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\replay_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_setting_wifi_item.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_setting_wifi_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_recommendss.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_recommendss.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_tv_station_grid.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\tv_station_grid.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_splash.jpg.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\splash.jpg"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_normal_bgb.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\button_normal_bgb.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_setting_bbg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\setting_bbg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_normal_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\button_normal_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_type_details_filter.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_type_details_filter.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_setting_clear.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_setting_clear.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_user_leftbar.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\user_leftbar.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_member_icon.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\member_icon.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_setting.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\setting.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_monday_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_monday_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_svip3.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-mdpi\\svip3.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_keypad_ench_selector_bak.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\keypad_ench_selector_bak.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_loadings.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\icon_loadings.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_media_menu_background.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\media_menu_background.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_local_app.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\local_app.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_video_bg_selector2.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\video_bg_selector2.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_thursday_s.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_thursday_s.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\raw_imgview_pentagon.svg.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\raw\\imgview_pentagon.svg"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_filter_sleted.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\filter_sleted.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_menu_bg_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\menu_bg_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_saturday_s.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_saturday_s.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_tv_loading_dialog.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\tv_loading_dialog.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_table_media_info.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\table_media_info.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_check_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\check_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_fl_re_4.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\fl_re_4.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_gonggao.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\gonggao.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_yizhuiju_n_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\yizhuiju_n_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wireless_network_signal_0.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\wireless_network_signal_0.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_toast_shut.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\toast_shut.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_titile_top.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\titile_top.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_topic_left_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\topic_left_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_video_details_xuanji_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\video_details_xuanji_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_media_time_controler.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_media_time_controler.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\raw_imgview_octogon.svg.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\raw\\imgview_octogon.svg"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_livetv.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\livetv.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_setting_manage_divider.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\setting_manage_divider.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_iv_store.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\iv_store.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ali.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\ali.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_friday_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_friday_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wifi_signal_p_4.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\wifi_signal_p_4.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_thursday_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_thursday_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_select_right_arrows_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\select_right_arrows_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_iv_search.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\iv_search.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_filter_focus.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\filter_focus.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_wifi_content_save.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\wifi_content_save.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_check_c.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\check_c.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_sunday_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_sunday_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\menu_main.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_loadingprogress.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\loadingprogress.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_check_c.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\check_c.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_filter_normal.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\filter_normal.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_set.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\ic_set.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_titile_top.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\titile_top.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_filter_bg_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\filter_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_check_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\check_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_clean.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\clean.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_saturday_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_saturday_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_setting.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_zhuiju_n_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\zhuiju_n_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\anim_controler_down.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\anim\\controler_down.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_video_details_play_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\video_details_play_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_wifi_dialog.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\wifi_dialog.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_tvback.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\activity_tvback.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_osd_subtitles_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\osd_subtitles_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_fl_re_4.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\fl_re_4.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_appwall_item_sel.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\appwall_item_sel.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_media_controlers.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_media_controlers.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_battery_charging.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-hdpi\\ic_battery_charging.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_tvstation_top.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\tvstation_top.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_topic_detail.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\topic_detail.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_keypad_space_selector_bak.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\keypad_space_selector_bak.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_bg.jpg.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\bg.jpg"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_home_foot_icon_05.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\home_foot_icon_05.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_splash.jpg.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\splash.jpg"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_volume_seekbar_style.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\volume_seekbar_style.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_keypad_space_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\keypad_space_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_full_9_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\full_9_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_appwall_bg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\appwall_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wireless_network_signal_2.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\wireless_network_signal_2.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_diver.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\diver.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wifi.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\wifi.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_toast_err.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\toast_err.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_loading.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\icon_loading.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_white_border.9.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\white_border.9.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_seek_bar.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\seek_bar.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_sj_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\sj_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_cancel_shape.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\bg_cancel_shape.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_video_bg_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\video_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_video_details_choose_arts.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_video_details_choose_arts.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_exit_horse.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\exit_horse.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_clear_h.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\clear_h.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_exit_view.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\exit_view.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wifi_signal_p_3.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\wifi_signal_p_3.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\raw_imgview_diamond.svg.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\raw\\imgview_diamond.svg"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_dialog_bg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\dialog_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wireless_network_lock.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\wireless_network_lock.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_sunday_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_sunday_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\anim_menu_fade_out.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\anim\\menu_fade_out.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\anim_setsmall.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\anim\\setsmall.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wireless_network_signal_3.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\wireless_network_signal_3.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_wlan_dialog_bg2.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\wlan_dialog_bg2.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_film_item_selected.9.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\film_item_selected.9.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_settings.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_common_menu_focus.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\bg_common_menu_focus.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_text_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\text_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_changetype_left.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\changetype_left.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\raw_imgview_heart.svg.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\raw\\imgview_heart.svg"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_sm_pro3.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\sm_pro3.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_fliter_line_hor.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\fliter_line_hor.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_white_border.9.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\white_border.9.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_tuesday_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_tuesday_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_battery_red.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-hdpi\\ic_battery_red.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_saturday_s.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_saturday_s.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_media_volume_controler.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_media_volume_controler.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_menu_bg_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\menu_bg_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_tvstation_item.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\tvstation_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_background_play_item_bg_f.9.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\background_play_item_bg_f.9.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_lv_tv_back_channel_item.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\lv_tv_back_channel_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_titile_top.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\titile_top.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bottom_titile.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\bottom_titile.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_channeladd.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\channeladd.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_video_details_bg.jpg.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\video_details_bg.jpg"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_line199.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\line199.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_menu_bg_h.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\menu_bg_h.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_video_details_yizhuiju_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\video_details_yizhuiju_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_clear.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\ic_clear.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_itv_exit_ok.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\itv_exit_ok.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wireless_network_signal_1.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\wireless_network_signal_1.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_monday_s.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_monday_s.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\anim_anim_exit.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\anim\\anim_exit.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_lo_run1.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\lo_run1.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_normal_bgs.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\button_normal_bgs.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_listview_item_bg_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\listview_item_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_fliter_gou.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\fliter_gou.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_sunday_s.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_sunday_s.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\anim_time_controler_up.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\anim\\time_controler_up.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_battery.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-hdpi\\ic_battery.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_video_detail_key_xuanji.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\video_detail_key_xuanji.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_setting_other.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_setting_other.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wifi_signal_p_1.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\wifi_signal_p_1.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_forget_dialog_bt_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\forget_dialog_bt_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mains.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\activity_mains.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_video_details_yifavicon_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\video_details_yifavicon_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_check_cf.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\check_cf.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_channeltype_bg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\channeltype_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_search_grid_item.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_search_grid_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_sm_pro4.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\sm_pro4.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_home_foot_icon_05.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\home_foot_icon_05.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_huodong.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\huodong.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_line_xg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\line_xg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_home_top_icon_record.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\home_top_icon_record.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_keybord_bg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\keybord_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_lv_tv_back_column_item.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\lv_tv_back_column_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_vod_line35.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\vod_line35.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_recommend.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_recommend.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_vod_menu_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\vod_menu_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_media_controler_background.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\media_controler_background.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wifi_signal_p_4.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\wifi_signal_p_4.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_seekbar_thumb_pressed.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\seekbar_thumb_pressed.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_media_playstatus.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\media_playstatus.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_svip1.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-mdpi\\svip1.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wifi_signal_o_1.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\wifi_signal_o_1.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_wifi.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\wifi.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_details_key_grid_item.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_details_key_grid_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wifi_signal_o_0.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\wifi_signal_o_0.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_fliter_bg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\fliter_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_bfsz.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-mdpi\\bfsz.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_badge_background_shape.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\badge_background_shape.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_yc_h.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\yc_h.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_fl_re_0.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\fl_re_0.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_common_menu_normal.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\bg_common_menu_normal.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_thursday_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_thursday_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_radiobutton_background_checked.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\radiobutton_background_checked.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_mv_controler_menu_item.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\mv_controler_menu_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_key_n.9.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\key_n.9.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_search_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\search_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_select_right_arrows_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\select_right_arrows_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_clear_button_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\clear_button_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_top_button_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\home_top_button_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wireless_network_lock.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\wireless_network_lock.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_gonggao.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\gonggao.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_yifavicon_n_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\yifavicon_n_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_wifi_signal.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\wifi_signal.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_lo_fold.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\lo_fold.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_user_icon.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\user_icon.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_qq.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\qq.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wifi_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\wifi_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_loadings.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\icon_loadings.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_home_line.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\home_line.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_wifi_content_unconn.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\wifi_content_unconn.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_app_iv_2.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\app_iv_2.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_media_bg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\media_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_date_tuesday_s.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\date_tuesday_s.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_so_box.9.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\so_box.9.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_more.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\more.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_badge_background.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\badge_background.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_itv_exit_ok.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\itv_exit_ok.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_app_iv_0.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\app_iv_0.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_table_media_info_row1.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\table_media_info_row1.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\anim_time_controler_down.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\anim\\time_controler_down.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_topicss.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_topicss.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_seekbar_thumb_normal.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\seekbar_thumb_normal.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_appmgr.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\activity_appmgr.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_epg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\epg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_saturday_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_saturday_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_iv_message_board.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\iv_message_board.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wifi_signal_p_2.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\wifi_signal_p_2.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_check_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\check_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_iv_history.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\iv_history.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_kmgg.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-mdpi\\kmgg.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_sm_pro5.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\sm_pro5.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_tv_back_tv.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\tv_back_tv.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_monday_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_monday_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_introduce_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\introduce_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wifi_signal_o_4.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\wifi_signal_o_4.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\anim_setbig.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\anim\\setbig.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wx.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\wx.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_tv_back_sunday_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\tv_back_sunday_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\anim_dialog_fade_in.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\anim\\dialog_fade_in.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_divider.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\list_divider.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_app.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_app.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wifi_title.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\wifi_title.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_huikan.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\huikan.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_sousuo.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\mipmap-mdpi\\sousuo.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_wifi.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\wifi.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_media_controler_background.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\media_controler_background.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_fl_re_1.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\fl_re_1.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_gallery_item.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\gallery_item.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_show.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\show.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_member.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\activity_member.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_setting_wallpaper.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\layout\\layout_setting_wallpaper.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_tv_back_446x406.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\tv_back_446x406.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_wifi.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\wifi.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_backspace_n.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\backspace_n.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_video_details_introduce_n_selector.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\video_details_introduce_n_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_side_nav_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\side_nav_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_line760.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\line760.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_other.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\other.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_text_bgs.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\text_bgs.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_header_gradient_bg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\header_gradient_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_gexing.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\gexing.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_app_favorite.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\app_favorite.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_menu_bg_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\menu_bg_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_film_name_bg_h.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\film_name_bg_h.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_bottom_epg.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\bg_bottom_epg.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_wifi.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\wifi.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable_progressbar.xml.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wireless_network_signal_2.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\wireless_network_signal_2.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_date_friday_f.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-hdpi\\date_friday_f.png"
+    },
+    {
+        "merged": "G:\\AndroidProject\\SMTVCESHI\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_lo_run2.png.flat",
+        "source": "G:\\AndroidProject\\SMTVCESHI\\app\\src\\main\\res\\drawable-mdpi\\lo_run2.png"
+    }
+]

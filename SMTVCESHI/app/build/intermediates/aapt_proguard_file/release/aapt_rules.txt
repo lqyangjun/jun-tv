@@ -1,0 +1,65 @@
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
+-keep class com.shenma.tvlauncher.AboutActivity { <init>(); }
+-keep class com.shenma.tvlauncher.AppManageActivity { <init>(); }
+-keep class com.shenma.tvlauncher.BaseActivity { <init>(); }
+-keep class com.shenma.tvlauncher.ClearActivity { <init>(); }
+-keep class com.shenma.tvlauncher.EmpowerActivity { <init>(); }
+-keep class com.shenma.tvlauncher.HistoryActivity { <init>(); }
+-keep class com.shenma.tvlauncher.HomeActivity { <init>(); }
+-keep class com.shenma.tvlauncher.OtherActivity { <init>(); }
+-keep class com.shenma.tvlauncher.SettingActActvity { <init>(); }
+-keep class com.shenma.tvlauncher.SettingInvActivity { <init>(); }
+-keep class com.shenma.tvlauncher.SettingPlayActivity { <init>(); }
+-keep class com.shenma.tvlauncher.SettingRemoteActivity { <init>(); }
+-keep class com.shenma.tvlauncher.SettingWallpaperActivity { <init>(); }
+-keep class com.shenma.tvlauncher.SplashActivity { <init>(); }
+-keep class com.shenma.tvlauncher.TopicActivity { <init>(); }
+-keep class com.shenma.tvlauncher.TvStationActivity { <init>(); }
+-keep class com.shenma.tvlauncher.UserActivity { <init>(); }
+-keep class com.shenma.tvlauncher.application.MyApplication { <init>(); }
+-keep class com.shenma.tvlauncher.tvback.TVBackActivity { <init>(); }
+-keep class com.shenma.tvlauncher.tvlive.TVLivePlayer { <init>(); }
+-keep class com.shenma.tvlauncher.view.JSONService { <init>(); }
+-keep class com.shenma.tvlauncher.view.MyService { <init>(); }
+-keep class com.shenma.tvlauncher.view.MyServices { <init>(); }
+-keep class com.shenma.tvlauncher.vod.LivePlayerActivity { <init>(); }
+-keep class com.shenma.tvlauncher.vod.SearchActivity { <init>(); }
+-keep class com.shenma.tvlauncher.vod.VideoPlayerActivity { <init>(); }
+-keep class com.shenma.tvlauncher.vod.VodDetailsActivity { <init>(); }
+-keep class com.shenma.tvlauncher.vod.VodTypeActivity { <init>(); }
+-keep class android.support.constraint.ConstraintLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.constraint.Guideline { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.v4.view.ViewPager { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class android.support.v4.widget.NestedScrollView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.baidu.cyberplayer.core.BVideoView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.exoplayer2.ui.AspectRatioFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.exoplayer2.ui.DefaultTimeBar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.exoplayer2.ui.SubtitleView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.exoplayer2.ui.TrackSelectionView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.shenma.tvlauncher.view.AlwaysMarqueeTextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.shenma.tvlauncher.view.PlayerProgressBar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.shenma.tvlauncher.view.VideoView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.shenma.tvlauncher.view.cornerlabelview.CornerLabelView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.shenma.tvlauncher.view.shapeimageview.RoundedImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.shenma.tvlauncher.view.smoothprogressbar.SmoothProgressBar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.view.MarqueeTextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.view.ScrollTextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class tv.danmaku.ijk.media.example.widget.media.IjkVideoView { <init>(android.content.Context, android.util.AttributeSet); }
+
